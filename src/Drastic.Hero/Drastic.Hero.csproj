@@ -6,7 +6,7 @@
     <ImplicitUsings>true</ImplicitUsings>
     <IsBindingProject>true</IsBindingProject>
     <IsPackable>true</IsPackable>
-    <Description>Binding of Hero for .NET iOS, tvOS, and macOS Projects</Description>
+    <Description>Binding of Hero for .NET iOS, Catalyst, and tvOS Projects</Description>
     <Company>Drastic Actions</Company>
 		<Authors>$(Company)</Authors>
 		<Copyright>Copyright (C) Drastic Actions</Copyright>
